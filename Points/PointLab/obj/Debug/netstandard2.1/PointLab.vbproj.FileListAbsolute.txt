@@ -1,0 +1,10 @@
+C:\Users\sasha\source\repos\Points\PointLab\bin\Debug\netstandard2.1\PointLab.deps.json
+C:\Users\sasha\source\repos\Points\PointLab\bin\Debug\netstandard2.1\PointLab.dll
+C:\Users\sasha\source\repos\Points\PointLab\bin\Debug\netstandard2.1\PointLab.pdb
+C:\Users\sasha\source\repos\Points\PointLab\obj\Debug\netstandard2.1\PointLab.vbproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\Points\PointLab\obj\Debug\netstandard2.1\PointLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\Points\PointLab\obj\Debug\netstandard2.1\PointLab.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\Points\PointLab\obj\Debug\netstandard2.1\PointLab.AssemblyInfo.vb
+C:\Users\sasha\source\repos\Points\PointLab\obj\Debug\netstandard2.1\PointLab.vbproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\Points\PointLab\obj\Debug\netstandard2.1\PointLab.dll
+C:\Users\sasha\source\repos\Points\PointLab\obj\Debug\netstandard2.1\PointLab.pdb
